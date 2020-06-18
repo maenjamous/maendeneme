@@ -1,0 +1,2 @@
+# maendeneme
+python deneme
